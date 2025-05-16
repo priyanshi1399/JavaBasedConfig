@@ -1,8 +1,12 @@
 package com.priyanshi;
 
-public class Desktop {
+public class Desktop implements Computer {
+    public Desktop(){
+        System.out.println("Desktop Object Created");
+    }
 
-    public void code(){
+    @Override
+    public void compile(){
         System.out.println("Compiling using Desktop");
     }
 }
