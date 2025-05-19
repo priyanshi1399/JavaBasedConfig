@@ -14,4 +14,9 @@ public class Desktop implements Computer {
     public void compile(){
         System.out.println("Compiling using Desktop");
     }
+
+    @Override
+    public void addCode() {
+        System.out.println("Hello Desktop");
+    }
 }
