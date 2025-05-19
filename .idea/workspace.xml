@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50046683-ad1a-45b2-883f-810ceb1ff39e" name="Changes" comment="Autowire">
+    <list default="true" id="50046683-ad1a-45b2-883f-810ceb1ff39e" name="Changes" comment="Component Sterotype Annotations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/priyanshi/Alien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priyanshi/Alien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/priyanshi/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priyanshi/Computer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/priyanshi/Desktop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priyanshi/Desktop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/priyanshi/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priyanshi/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/priyanshi/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priyanshi/config/AppConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,12 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1747429318570</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Component Sterotype Annotations">
+      <option name="closed" value="true" />
+      <created>1747661466829</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747661466830</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ObjectCreation,Prototype,Name" />
     <MESSAGE value="Autowire" />
-    <option name="LAST_COMMIT_MESSAGE" value="Autowire" />
+    <MESSAGE value="Component Sterotype Annotations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Component Sterotype Annotations" />
   </component>
 </project>
